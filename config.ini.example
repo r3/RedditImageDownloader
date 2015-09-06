@@ -1,0 +1,16 @@
+[DEFAULT]
+LogLevel = debug
+SubList = subs.lst
+DestinationDirectory = PATH_HERE
+MaxNameLength = 7
+MinimumScore = 0
+SkipCollidingNames = true
+Overwrite = false
+
+[directlink]
+AcceptedExtensions = .jpg,.jpeg,.gif,.gifv,.png,.bmp
+
+[imgur]
+Username = USERNAME_HERE
+Password = PASSWORD_HERE
+
